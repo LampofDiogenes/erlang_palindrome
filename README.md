@@ -22,5 +22,4 @@ variables must be purged before being reborn under a new value. it teaches the p
 * Needs
 * To
 * Work
-* (the program needs to open a terminal so the user can repsond to the program, the program needs to go through a recursive loop, comparing the first word to the last, and then tell
-* the user if it is indeed a plaindrome. After this, the program must remain open for a new response until the terminal is closed).
+* (the program needs to open a terminal so the user can repsond to the program, the program needs to go through a recursive loop, comparing the first word to the last, and then tell the user if it is indeed a plaindrome. After this, the program must remain open for a new response until the terminal is closed).
